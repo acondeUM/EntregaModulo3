@@ -1,0 +1,31 @@
+#header-nav{
+	height: auto;
+}
+
+#titulo{
+	color: black;
+}
+
+#titulo:hover, #titulo:focus{
+	text-decoration: none;
+}
+
+h2#subtitulo{
+	text-align: center;
+}
+
+div.food{
+	border: box;
+	color:red;
+	color:black;
+	border-style: solid;
+    border-color: black;
+    margin-top: 50px;
+}
+
+li{
+	text-align: center;
+	font-size: 30px;
+	background-color: black;
+	color: white;
+}
